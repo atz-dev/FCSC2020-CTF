@@ -13,7 +13,8 @@ In this challenge, we must therefore find the result of an RSA encryption, with 
 RSA is an asymetric encryption. We use our public key to encrypt things, and our private key to decrypt it.  
 To obtain our result, we need to use the basic operation that RSA encryption process use, the modular exponentiation.  
 Here, `n` and `e` numbers are called public keys.  
-The numeric message is decomposed into numbers (less than `n`), for each number `m` the encrypted message `c` is : `c = (m ** e) % n`.  
+The numeric message is decomposed into numbers (less than `n`), for each number `m` the encrypted message `c` is :  
+`c = (m ** e) % n`  
 
 ### DO THE MATH
 
