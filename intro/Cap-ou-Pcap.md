@@ -7,7 +7,7 @@
 > Le flag est présent dans le contenu du fichier.
 
 In this challenge, we start with a `cap.pcap` file, which we open in `Wireshark`.  
-We quickly understand that we will have to find the contents of the file shared.  
+We quickly understand that we will have to find the packet containing the file and restore it.  
 
 ### ANALYZING THE .PCAP
 
