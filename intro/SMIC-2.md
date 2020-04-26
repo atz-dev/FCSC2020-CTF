@@ -1,4 +1,4 @@
-# SMIC 2
+# WRITE-UP - SMIC 2
 
 ### SUBJECT
 
