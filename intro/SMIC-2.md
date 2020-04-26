@@ -28,7 +28,8 @@ This attack is based on the fact that the prime numbers used to generate the key
 
 ### RESTORE THE PRIVATE KEY
 
-Thanks to https://factordb.com, I was able to find `p` and `q` from `n` :
+Thanks to https://factordb.com, I was able to find `p` and `q` from `n` :  
+
 ![factordb](/images/factordb.png)
 
 Now, I am able to reconstitute my private key and decrypt the message.
