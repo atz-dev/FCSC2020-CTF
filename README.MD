@@ -7,7 +7,7 @@ Through __38__ challenges, he put to the proof two categories: __Junior__ (15-20
 The goal was to finish at the top of the ranking in order to be taken to the selections of the team that will represent __France__ during the __European Cybersecurity Challenge__, in Vienna (Austria) this winter.  
 
 The format of this CTF was __Jeopardy__, and gathered 8 different categories.  
-This write-up describes the different challenges I managed to solve as well as the path I took, the techniques I used. Most of the challenges that I have solved are not present here, for lack of time to write them here.  
+This write-up describes the different challenges I managed to solve as well as the path I took, the techniques I used. Most of the challenges that I have solved are not present here, for lack of time to write them.  
 There are only the simplest ones.  
 
 ---
