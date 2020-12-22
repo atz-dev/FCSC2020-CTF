@@ -11,28 +11,10 @@ This write-up describes the different challenges I managed to solve as well as t
 
 Here are the different challenges that included the pre-qualifications by category and the write-ups of those that I passed.  
 
-1. [__INTRO__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/intro)
-    - [SMIC 1](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-1.md)
-    - [SMIC 2](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-2.md)
-    - [Petite frappe 1](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Petite-frappe-1.md)
-    - [Cap ou Pcap](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Cap-ou-Pcap.md)
-    - [Poney](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Poney.md)
-    - [Le Rat Conteur](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Le-Rat-Conteur.md)
-    - [Tarte Tatin](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Tarte-Tatin.md)
-    - [SuSHi](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SuSHi.md)
-    - [NES Forever](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/NES-Forever.md)
-    - [Babel Web](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Babel-Web.md)
-    - [Sbox]()
-2. [__FORENSICS__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/forensics)
-    - [Académie de l'investigation - C'est la rentrée]()
-4. [__WEB__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/web)
-    - [EnterTheDungeon]()
-    - [RainbowPages]()
-6. [__HARDWARE__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/hardware)
-7. [__REVERSE__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/reverse)
-8. [__PWN__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/pwn)
-9. [__MISC__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/misc)
-10. [__CRYPTO__](https://github.com/atz-dev/FCSC2020-CTF/tree/master/crypto)
+- [SMIC 1](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-1.md)
+- [SMIC 2](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-2.md)
+- [Petite frappe 1](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Petite-frappe-1.md)
+- [Cap ou Pcap](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Cap-ou-Pcap.md)
 
 ---
 
