@@ -8,10 +8,9 @@ The goal was to finish at the top of the ranking in order to be taken to the sel
 
 The format of this CTF was __Jeopardy__, and gathered 8 different categories.  
 This write-up describes the different challenges I managed to solve as well as the path I took, the techniques I used.  
+Most of the challenges that I have solved are not present here, for lack of time to write the write-ups. There are only the simplest.  
 
 ---
-
-Here are the different challenges that included the pre-qualifications by category and the write-ups of those that I passed.  
 
 - [SMIC 1](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-1.md)
 - [SMIC 2](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-2.md)
