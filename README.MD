@@ -1,6 +1,6 @@
 # FCSC2020-CTF
 
-![fcsc-logo](/images/fcsc-logo.jpeg)
+![fcsc-logo](/images/fcsc-logo.jpg)
 
 The __FCSC 2020 pre-qualification CTF__, organized by the __ANSSI__ cybersecurity team, took place from April 16 to May 4, 2020.  
 Through __38__ challenges, he put to the proof two categories: __Junior__ (15-20 years) and __Senior__ (20-25 years).  
