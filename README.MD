@@ -12,8 +12,11 @@ There are only the simplest ones.
 
 ---
 
+### CRYPTOGRAPHY
 - [SMIC 1](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-1.md)
 - [SMIC 2](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/SMIC-2.md)
+
+### FORENSIC
 - [Petite frappe 1](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Petite-frappe-1.md)
 - [Cap ou Pcap](https://github.com/atz-dev/FCSC2020-CTF/blob/master/intro/Cap-ou-Pcap.md)
 
